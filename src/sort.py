@@ -39,9 +39,6 @@ def main():
 
   entries.sort(key=lambda x: (x[1][0], x[1][1], x[1][2]))
 
-  for item in entries[:10]:
-    print(item)
-
   with open(args.output, 'w') as f:
     for item in comments:
       f.write(item)
