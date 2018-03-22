@@ -321,7 +321,6 @@
 0.0.0.0 fr-ca.facebook.com
 0.0.0.0 fr-fr.facebook.com
 0.0.0.0 graph.facebook.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 gu-in.facebook.com
 0.0.0.0 hi-in.facebook.com
 0.0.0.0 hr-hr.facebook.com
@@ -899,7 +898,6 @@
 0.0.0.0 scontent.fybz2-2.fna.fbcdn.net
 0.0.0.0 scontent.fymy1-2.fna.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scontent-1.2914.fna.fbcdn.net
 0.0.0.0 scontent-2.2914.fna.fbcdn.net
 0.0.0.0 scontent-a.xx.fbcdn.net
@@ -946,7 +944,6 @@
 0.0.0.0 scontent-b-sin.xx.fbcdn.net
 0.0.0.0 scontent-b-sjc.xx.fbcdn.net
 0.0.0.0 scontent-b-vie.xx.fbcdn.net
-0.0.0.0 scontent-bom1-1.xx.fbcdn.net
 0.0.0.0 scontent-bom1-1.xx.fbcdn.net
 0.0.0.0 scontent-cdg.xx.fbcdn.net
 0.0.0.0 scontent-cdg2-1.xx.fbcdn.net
