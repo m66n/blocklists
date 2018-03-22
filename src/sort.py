@@ -9,6 +9,7 @@ def parse_file(filename):
   entries = []
   with open(filename) as f:
     for line in f:
+      line = line.strip()
       if line.startswith('#') and len(entries) == 0:
         comments.append(line)
       else:
@@ -37,15 +38,18 @@ def main():
 
   comments, entries = parse_file(args.input)
 
+  # dedupe entries
+  entries = list(dict.fromkeys(entries))
+
   entries.sort(key=lambda x: (x[1][0], x[1][1], x[1][2]))
 
   with open(args.output, 'w') as f:
     for item in comments:
-      f.write(item)
+      f.write('{}\n'.format(item))
     if len(comments) > 0:
       f.write('\n')
     for item in entries:
-      f.write(item[0])
+      f.write('{}\n'.format(item[0]))
 
   return 0
 
