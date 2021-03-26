@@ -1305,6 +1305,7 @@
 0.0.0.0 onepublicservice.facebook.com
 0.0.0.0 onepublicservice.m.facebook.com
 0.0.0.0 onevedanta.m.facebook.com
+0.0.0.0 opensource.facebook.com
 0.0.0.0 or-in.facebook.com
 0.0.0.0 orcart.facebook.com
 0.0.0.0 origincache.facebook.com
@@ -1623,8 +1624,10 @@
 0.0.0.0 investor.fb.com
 0.0.0.0 live.fb.com
 0.0.0.0 newsroom.fb.com
+0.0.0.0 opensource.fb.com
 0.0.0.0 portal.fb.com
 0.0.0.0 research.fb.com
+0.0.0.0 tech.fb.com
 0.0.0.0 thefacebook.com.fb.com
 0.0.0.0 www.fb.com
 0.0.0.0 z-m-portal.fb.com
@@ -15076,13 +15079,17 @@
 0.0.0.0 giphy-proxy-production.whispersystems.org
 0.0.0.0 woculus.com
 0.0.0.0 www.woculus.com
+0.0.0.0 workplace.com
 0.0.0.0 1-edge-chat.workplace.com
 0.0.0.0 5-edge-chat.workplace.com
 0.0.0.0 edge-chat.workplace.com
 0.0.0.0 edge-mqtt.workplace.com
 0.0.0.0 fb.workplace.com
 0.0.0.0 graph.workplace.com
+0.0.0.0 l.workplace.com
 0.0.0.0 pixel.workplace.com
+0.0.0.0 work.workplace.com
+0.0.0.0 www.workplace.com
 0.0.0.0 www.facebook
 0.0.0.0 xsunfb.com
 0.0.0.0 yhhhmtsdfb.com
